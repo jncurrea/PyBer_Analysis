@@ -11,7 +11,16 @@ Now, the data answers this same question. Notice, in the following graph, how th
 
 ![Screen Shot 2022-01-26 at 7 14 40 PM](https://user-images.githubusercontent.com/95834653/151273681-5e173210-48ef-432d-be3e-6506f4cd5eb8.png)
 
+However, given the fact that there are fewer rides in rural and suburban area, the price per ride increases significantly. This is an inverse relation, meaning, the more the number of rides, the less it costs.
 
+![Screen Shot 2022-01-26 at 7 17 41 PM](https://user-images.githubusercontent.com/95834653/151273983-25188423-c148-4f98-8602-1887c4bfad52.png)
 
+Despite the fact that trips in rural cities cost more, the total fare is still significantly higher in urban cities. This is due to the high number of rides in urban areas. 65% of all the rides stored (2375) comes from urban cities.
+![Screen Shot 2022-01-26 at 7 19 02 PM](https://user-images.githubusercontent.com/95834653/151274125-d523ff20-2006-424b-947b-f69ef04799dd.png)
 
+## Summary
 
+From our data we are able to tell how rides behave in each city type. Through this we can have focus groups in order to maximize revenue in each type of city, separately. I would give 3 recomendations to the CEO for addressing any disparities among the city types.
+- First, focus on where the higher concentration of rides is (Urban cities). Focusing on each city group separately can allow the company to have a better approach on marketing campaigns that will increase revenue.
+- Try an A-B testing experiment. In some suburban cities, make more drivers available, and in some others keep it the same way. With this experiment, the CEO can analyze how is the ride behavior in suburban cities (our middle group) and check for a revenue increase.
+- Charge more per mile in urban cities given the fact that rides in urban cities are significantly shorter.
